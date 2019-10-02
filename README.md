@@ -10,7 +10,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 ## Informatii produs
 
-- Site de prezentare - Visualize
+- Site de prezentare
 - Live [DEMO](https://site-web-bucuresti-consultant.websitemarket.ro)
  
 <br />
